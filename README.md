@@ -59,7 +59,7 @@ The project follows a modular production-ready architecture separating data prep
 # ⚙ Installation
 
 ```bash
-git clone https://github.com/yourusername/InfantCryClassification.git
+git clone https://github.com/Omshinde01/InfantCryClassification.git
 
 cd InfantCryClassification
 
